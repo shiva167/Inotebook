@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* //  <div>
+// <form  onSubmit={handleSubmit}>
+// <div className="mb-3 row">
+// <label  htmlFor="text" className="col-sm-2 col-form-label">Name</label>
+// <div className="col-sm-10">
+// <input type="text"  onChange={onchange} className="form-control" id="name" name='name'  />
+// </div>
+// </div>
+// <div className="mb-3 row">
+// <label  htmlFor="email" className="col-sm-2 col-form-label">Email</label>
+// <div className="col-sm-10">
+// <input type="email"  onChange={onchange} className="form-control" id="email" name='email'  />
+// </div>
+// </div>
+// <div className="mb-3 row">
+// <label htmlFor="password" className="col-sm-2 col-form-label">Password</label>
+// <div className="col-sm-10">
+// <input type="password"  onChange={onchange}  className="form-control" name='password' id="password" /> 
+// </div>
+// </div>
+// <div className="mb-3 row">
+// <label htmlFor="password" className="col-sm-2 col-form-label">Confirm Password</label>
+// <div className="col-sm-10">
+// <input type="cpassword"  onChange={onchange}  className="form-control" name='cpassword' id="cpassword" /> 
+// </div>
+// </div>
+// <button   type='submit' className='btn btn-primary'>Submit</button>
+// </form>
+//  </div>   */
